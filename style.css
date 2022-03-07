@@ -43,3 +43,15 @@
 .span{
     font-size: large;
 }
+
+.nyeremeny{
+    color: white;
+    background-color: gray;
+    border-radius: 10px;
+    font-size: large;
+}
+
+.nyeremeny:hover{
+    text-transform: uppercase;
+   
+}
