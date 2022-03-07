@@ -43,3 +43,19 @@
 .span{
     font-size: large;
 }
+
+h1{
+  color: rgb(28, 211, 28);
+}
+
+.kartya{
+  background-color: black;
+  color: rgb(28, 211, 28);
+  text-decoration: underline;
+}
+.kartya:hover{
+  background-color: rgb(28, 211, 28);
+  color: black;
+  font-weight: bold;
+  border: 3px solid rgb(28, 211, 28)
+}
