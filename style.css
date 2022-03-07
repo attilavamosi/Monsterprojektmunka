@@ -19,7 +19,7 @@
 
 .kep{
     height: 70px;
-    width: 140px;
+    width: 170px;
 }
 
 .főoldal{
@@ -39,4 +39,7 @@
 
 .buttonbg{
    background-color: rgb(28, 211, 28);
+}
+.span{
+    font-size: large;
 }
