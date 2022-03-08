@@ -22,6 +22,12 @@
     width: 170px;
 }
 
+
+.kep:hover{
+    border: solid 5px green;
+    border-radius: 3px;
+}
+
 .főoldal{
     background-color: black;
 }
@@ -53,5 +59,79 @@
 
 .nyeremeny:hover{
     text-transform: uppercase;
-   
+   padding: 3px;
+   color: rgb(28, 211, 28);
+}
+
+.fokepek:hover{
+    border: solid 5px white;
+    border-radius: 10px;
+}
+
+
+.csik{
+    font-family: sans-serif;
+margin: 100px auto;
+text-align: center;
+font-size: 40px;
+max-width: 600px;
+position:relative;
+
+}
+
+
+.csik:before{
+    content: "";
+display:block;
+width: 140px;
+height:2px;
+background: rgb(28, 211, 28);
+position: absolute;
+left: 0;
+top: 50%;
+z-index: -2;
+}
+
+
+
+.csik:after{
+    content: "";
+    display:block;
+    width: 140px;
+    height:2px;
+    background:rgb(28, 211, 28);
+    position: absolute;
+    right: 0;
+    top: 50%;
+    z-index: -2;
+}
+
+.csikszin{
+    background:black;
+}
+
+
+.video{
+    width: 50%;
+}
+
+.jelentkezz{
+    text-align: center;
+    background-color: rgb(28, 211, 28);
+    width: 20%;
+    border-radius: 5px;
+}
+
+
+.jelentkezesgomb{
+    color: white;
+    text-decoration: none;
+}
+
+.jelentkezz:hover{
+    background-color: green;
+}
+
+.hirlink:hover{
+    text-transform: uppercase;
 }
