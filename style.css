@@ -135,3 +135,18 @@ z-index: -2;
 .hirlink:hover{
     text-transform: uppercase;
 }
+
+.kartya{
+background-color: black;
+color: rgb(28, 211, 28);
+}
+
+.kartya:hover{
+    background-color: rgb(28, 211, 28);
+    border: 3px solid rgb(28, 211, 28);
+    color: black;font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
