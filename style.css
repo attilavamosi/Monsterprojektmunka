@@ -180,3 +180,18 @@ a{
   #myBtn:hover {
     background-color: rgb(28, 211, 28);
   }
+
+
+
+  .zenekartya{
+      background-color: black;
+      color: rgb(28, 211, 28);
+  }
+
+
+  .zenekartya:hover{
+      background-color: rgb(28, 211, 28);
+      color: black;
+      font-size: larger;
+      font-weight: bold;
+  }
