@@ -195,3 +195,43 @@ a{
       font-size: larger;
       font-weight: bold;
   }
+
+
+
+  .footer{
+      height: 170px;
+      
+  }
+
+
+  .footerkepfacebook:hover{
+    border: 3px solid blue;
+    border-radius: 10px;
+  }
+
+  .footerkepinsta:hover{
+    border: 3px solid rgb(165, 121, 39);
+    border-radius: 10px;
+  }
+
+  .footerkeptwitter:hover{
+    border: 3px solid rgb(30, 138, 201);
+    border-radius: 10px;
+  }
+
+  .footerkepYT:hover{
+    border: 3px solid red;
+    border-radius: 10px;
+  }
+  
+
+  .forraslink{
+    color: black;
+    padding-left: 30px;
+  }
+  .forraslink:hover{
+    border: 3px solid black;
+    border-radius: 10px;
+    color: rgb(28, 211, 28);
+  
+  }
