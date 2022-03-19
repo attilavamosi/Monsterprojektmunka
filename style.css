@@ -118,6 +118,7 @@ z-index: -2;
 
 .hirlink:hover{
     text-transform: uppercase;
+    
 }
 
 .kartya{
@@ -251,4 +252,19 @@ a{
     border: 3px solid rgb(28, 211, 28);
     border-radius: 10px;
     color: rgb(28, 211, 28);
+  }
+
+
+  .gamingmonsterkartya{
+    background-color: black;
+  }
+
+  .gamingmonsterkartyatext{
+      background-color: white;
+  }
+
+  .gamingtextlink:hover{
+      text-decoration: underline;
+      font-weight: bold;
+      font-size: larger;
   }
