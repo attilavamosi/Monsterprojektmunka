@@ -230,11 +230,25 @@ a{
   }
 
   .zenekepek{
-      height: 450px;
+      height: 400px;
       margin: auto;
   }
 
 
   .zenelink:hover{
     text-decoration: underline;
+  }
+
+
+
+  #zozolink{
+    font-size: x-large;
+    color: white;
+    text-transform: uppercase;
+    background-color: black;
+}
+  #zozolink:hover{
+    border: 3px solid rgb(28, 211, 28);
+    border-radius: 10px;
+    color: rgb(28, 211, 28);
   }
