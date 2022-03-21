@@ -275,8 +275,9 @@ a{
   }
 
   .container2{
+      background-color: black;
       text-decoration: none;
-      border: 1px solid black;
+      border: 1px solid greenyellow;
       border-radius: 30px;
   }
 
