@@ -245,13 +245,13 @@ a{
   #zozolink{
     font-size: x-large;
     color: white;
-    text-transform: uppercase;
-    background-color: black;
+    text-transform: uppercase;    
 }
   #zozolink:hover{
     border: 3px solid rgb(28, 211, 28);
     border-radius: 10px;
     color: rgb(28, 211, 28);
+    font-weight: bold;
   }
 
 
