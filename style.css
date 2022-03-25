@@ -154,7 +154,7 @@ a{
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: gray;
+    background-color: rgb(28, 99, 250);
     color: white;
     cursor: pointer;
     padding: 15px;
@@ -291,4 +291,12 @@ a{
 
   .monsterkepekindex{
       height: 250px;
+  }
+
+  .indexlink:hover{
+      text-decoration: underline;
+      text-transform: uppercase;
+      background-color: rgb(28, 211, 28);
+      border-radius: 5px;
+      padding: 2px;
   }
